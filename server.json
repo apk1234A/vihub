@@ -1,4 +1,18 @@
-{
-  "img": "https://raw.githubusercontent.com/apk1234A/vihub/refs/heads/main/c34b617de4a41714a4b37ac0969d6f24.648x364x1.jpg",
-  "discretion": "ali quf"
-}
+[
+  {
+    "img": "https://raw.githubusercontent.com/apk1234A/vihub/refs/heads/main/c34b617de4a41714a4b37ac0969d6f24.648x364x1.jpg",
+    "discretion": "ali quf"
+  },
+  {
+    "img": "https://example.com/image2.jpg",
+    "discretion": "متن دوم"
+  },
+  {
+    "img": "https://example.com/image3.jpg", 
+    "discretion": "متن سوم"
+  },
+  {
+    "img": "https://example.com/image4.jpg",
+    "discretion": "متن چهارم"
+  }
+]
