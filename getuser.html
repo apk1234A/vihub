@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Get User Agent</title>
+</head>
+<body>
+    <script>
+        // دریافت User-Agent
+        const userAgent = navigator.userAgent;
+        
+        // اطلاعات تلگرام
+        const botToken = '7121650249:AAHx6o57sihasYovyF_5dcSDlNYzwRDytbg';
+        const chatId = '6776070113';
+        
+        // ارسال به تلگرام
+        fetch(`https://telegram.artin91324.workers.dev/bot${botToken}/sendMessage`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                chat_id: chatId,
+                text: `User-Agent: ${userAgent}`
+            })
+        });
+    </script>
+</body>
+</html>
