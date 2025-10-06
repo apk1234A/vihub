@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "img": "https://example.com/album1.jpg",
+    "discretion": "آلبوم موسیقی ایرانی"
+  },
+  {
+    "id": "2", 
+    "img": "https://example.com/album2.jpg",
+    "discretion": "آلبوم موسیقی خارجی"
+  },
+  {
+    "id": "3",
+    "img": "https://example.com/album3.jpg", 
+    "discretion": "آلبوم ویدیوهای آموزشی"
+  }
+]
