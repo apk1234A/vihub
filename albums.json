@@ -2,16 +2,16 @@
   {
     "id": "1",
     "img": "https://github.com/apk1234A/vihub/raw/refs/heads/main/c34b617de4a41714a4b37ac0969d6f24.648x364x1.jpg",
-    "discretion": "آلبوم موسیقی ایرانی"
+    "discretion": "dariush tabahkar"
   },
   {
     "id": "2", 
     "img": "https://example.com/album2.jpg",
-    "discretion": "آلبوم موسیقی خارجی"
+    "discretion": "coming soon.."
   },
   {
     "id": "3",
     "img": "https://example.com/album3.jpg", 
-    "discretion": "آلبوم ویدیوهای آموزشی"
+    "discretion": "coming soon.."
   }
 ]
